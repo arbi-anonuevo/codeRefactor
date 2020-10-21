@@ -41,14 +41,20 @@ body {
     margin-left: 25px;
 }
 
+/* All a tags */
+
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* All p tags */
+
 p {
     font-size: 16px;
 }
+
+/* Main photo */
 
 .hero {
     height: 800px;
