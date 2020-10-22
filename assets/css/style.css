@@ -92,12 +92,16 @@ p {
     background-color: #2589bd;
 }
 
+/* Condensed */
+
 .benefit-lead,
 .benefit-brand,
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
+
+/* Condensed */
 
 .benefit-lead h3,
 .benefit-brand h3,
@@ -106,6 +110,8 @@ p {
     text-align: center;
 }
 
+/* Condensed */
+
 .benefit-lead img,
 .benefit-brand img,
 .benefit-cost img {
@@ -113,6 +119,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* Condensed */
 
 .search-engine-optimization,
 .online-reputation-management,
@@ -125,11 +133,15 @@ p {
     color: #ffffff;
 }
 
+/* Condensed */
+
 .search-engine-optimization img,
 .online-reputation-management img,
 .social-media-marketing img {
     max-height: 200px;
 }
+
+/* Condensed */
 
 .search-engine-optimization h2,
 .online-reputation-management h2,
